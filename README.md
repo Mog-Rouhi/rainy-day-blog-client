@@ -13,4 +13,4 @@ react-quill
  
 Back-end repository --> [Rainy Day](https://github.com/Mog-Rouhi/rainy-day-blog-server)
 
-<img src="./img/temp-repo.jpg" alt="drawing" style="width:1000px;"/>
+<img src="./src/img/temp-repo.jpg" alt="drawing" style="width:1000px;"/>
